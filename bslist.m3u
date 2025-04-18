@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 NHK BS (544p)
+#EXTINF:-1 group-title="General",NHK BS (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=4
 #EXTINF:-1 NHK BSP4K (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=4
