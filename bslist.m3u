@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NHK BS (544p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",NHK BS (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=4
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="",NHK BSP4K (1080p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",NHK BSP4K (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=4
-#EXTINF:-1 BS Asahi (544p)
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="General",BS Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=4
 #EXTINF:-1 BS Fuji TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=4
