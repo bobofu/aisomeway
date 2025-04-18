@@ -12,8 +12,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=4
 #EXTINF:-1 tvg-id="JPTV7" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Fuji TV NEXT (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=4
-#EXTINF:-1 tvg-id="JPTV8" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Toei Channel (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=4
 #EXTINF:-1 tvg-id="JPTV9" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Tokyo MX1 (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=4
 #EXTINF:-1 tvg-id="JPTV10" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",TV Tokyo (544p)
@@ -22,14 +20,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
 #EXTINF:-1 tvg-id="JPTV12" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",TV Osaka (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=4
-#EXTINF:-1 tvg-id="JPTV13" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Pandamax Channel (1080p)
-https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1 tvg-id="JPTV14" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",QVC Japan (720p)
-https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 tvg-id="JPTV15" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Sun TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=4
-#EXTINF:-1 tvg-id="JPTV16" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Tabi Channel (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=4
 #EXTINF:-1 tvg-id="JPTV17" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",TAKARAZUKA SKY STAGE (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=4
 #EXTINF:-1 tvg-id="JPTV18" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",NHK G (Osaka) (544p)
