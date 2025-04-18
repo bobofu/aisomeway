@@ -1,48 +1,48 @@
-#EXTINF:-1 NHK E (Tokyo) (544p)
+#EXTINF:-1 tvg-id="JPTV1" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",NHK E (Tokyo) (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd02&isp=4
-#EXTINF:-1 NHK General TV (720p)
+#EXTINF:-1 tvg-id="JPTV2" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",NHK General TV (720p)
 http://vthanh.utako.moe/NHK_G/index.m3u8
-#EXTINF:-1 TBS (544p)
+#EXTINF:-1 tvg-id="JPTV3" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",TBS (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd04&isp=4
-#EXTINF:-1 Nippon TV (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="JPTV4" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Nippon TV (540p) [Not 24/7]
 https://ntv4.mov3.co/hls/ntv.m3u8
-#EXTINF:-1 TBS News (544p)
+#EXTINF:-1 tvg-id="JPTV5" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",TBS News (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs11&isp=4
-#EXTINF:-1 Fuji TV (544p)
+#EXTINF:-1 tvg-id="JPTV6" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Fuji TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=4
-#EXTINF:-1 Fuji TV NEXT (544p)
+#EXTINF:-1 tvg-id="JPTV7" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Fuji TV NEXT (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs26&isp=4
-#EXTINF:-1 Toei Channel (1080p)
+#EXTINF:-1 tvg-id="JPTV8" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Toei Channel (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=4
-#EXTINF:-1 Tokyo MX1 (544p)
+#EXTINF:-1 tvg-id="JPTV9" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Tokyo MX1 (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=4
-#EXTINF:-1 TV Tokyo (544p)
+#EXTINF:-1 tvg-id="JPTV10" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",TV Tokyo (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=4
-#EXTINF:-1 TV Asahi (544p)
+#EXTINF:-1 tvg-id="JPTV11" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",TV Asahi (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=4
-#EXTINF:-1 TV Osaka (544p)
+#EXTINF:-1 tvg-id="JPTV12" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",TV Osaka (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=4
-#EXTINF:-1 Pandamax Channel (1080p)
+#EXTINF:-1 tvg-id="JPTV13" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
-#EXTINF:-1 QVC Japan (720p)
+#EXTINF:-1 tvg-id="JPTV14" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",QVC Japan (720p)
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
-#EXTINF:-1 Sun TV (544p)
+#EXTINF:-1 tvg-id="JPTV15" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Sun TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=4
-#EXTINF:-1 Tabi Channel (544p)
+#EXTINF:-1 tvg-id="JPTV16" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Tabi Channel (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=4
-#EXTINF:-1 TAKARAZUKA SKY STAGE (1080p)
+#EXTINF:-1 tvg-id="JPTV17" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",TAKARAZUKA SKY STAGE (1080p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=4
-#EXTINF:-1 NHK G (Osaka) (544p)
+#EXTINF:-1 tvg-id="JPTV18" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",NHK G (Osaka) (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=4
-#EXTINF:-1 NHK G (Tokyo) (540p) [Not 24/7]
+#EXTINF:-1 tvg-id="JPTV19" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",NHK G (Tokyo) (540p) [Not 24/7]
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 NHK Kishou Saigai (360p) [Not 24/7]
+#EXTINF:-1 tvg-id="JPTV20" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",NHK Kishou Saigai (360p) [Not 24/7]
 https://newssimul-stream.nhk.jp/hls/live/2010561/nhknewssimul/master.m3u8
-#EXTINF:-1 NHK World Premium (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="JPTV21" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",NHK World Premium (720p) [Not 24/7]
 https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
-#EXTINF:-1 NHK World-Japan (720p)
+#EXTINF:-1 tvg-id="JPTV22" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",NHK World-Japan (720p)
 https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-#EXTINF:-1 Nihon Eiga Senmon (544p)
+#EXTINF:-1 tvg-id="JPTV23" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Nihon Eiga Senmon (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=4
-#EXTINF:-1 Nittele G Plus (544p)
+#EXTINF:-1 tvg-id="JPTV24" tvg-logo="https://i.imgur.com/I11J99B.png" group-title="General",Nittele G Plus (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02&isp=4
