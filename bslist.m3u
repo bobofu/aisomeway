@@ -9,8 +9,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=4
 #EXTINF:-1 tvg-id="JPTV5" tvg-logo="https://i.imgur.com/I11J99B.png",BS Nippon TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=4
-#EXTINF:-1 tvg-id="JPTV6" tvg-logo="https://i.imgur.com/I11J99B.png",BS Shochiku Tokyu (1080p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs31&isp=4
 #EXTINF:-1 tvg-id="JPTV7" tvg-logo="https://i.imgur.com/I11J99B.png",BS TBS (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=4
 #EXTINF:-1 tvg-id="JPTV8" tvg-logo="https://i.imgur.com/I11J99B.png",BS TV Tokyo (544p)
@@ -21,14 +19,10 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs10&isp=4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=4
 #EXTINF:-1 tvg-id="JPTV11" tvg-logo="https://i.imgur.com/I11J99B.png",MBS (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=4
-#EXTINF:-1 tvg-id="JPTV12" tvg-logo="https://i.imgur.com/I11J99B.png",Mondo TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=4
 #EXTINF:-1 tvg-id="JPTV13" tvg-logo="https://i.imgur.com/I11J99B.png",Movie Plus (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=4
 #EXTINF:-1 tvg-id="JPTV14" tvg-logo="https://i.imgur.com/I11J99B.png",ABC (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=4
-#EXTINF:-1 tvg-id="JPTV15" tvg-logo="https://i.imgur.com/I11J99B.png",Kanade (1080p)
-https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 #EXTINF:-1 tvg-id="JPTV16" tvg-logo="https://i.imgur.com/I11J99B.png",Kansai TV (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=4
 #EXTINF:-1 tvg-id="JPTV17" tvg-logo="https://i.imgur.com/I11J99B.png",Anime TV (360p) [Not 24/7]
@@ -49,8 +43,6 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18&isp=4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=4
 #EXTINF:-1 tvg-id="JPTV25" tvg-logo="https://i.imgur.com/I11J99B.png",Green Channel (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs14&isp=4
-#EXTINF:-1 tvg-id="JPTV26" tvg-logo="https://i.imgur.com/I11J99B.png",GSTV (720p)
-https://japaneast.av.mk.io/mediakindcdn-mediakind/b8278d70-0a5f-400c-9b16-c7acf7004355/index.qfm/manifest(format=m3u8-cmaf)
 #EXTINF:-1 tvg-id="JPTV27" tvg-logo="https://i.imgur.com/I11J99B.png",History Channel Japan (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=4
 #EXTINF:-1 tvg-id="JPTV28" tvg-logo="https://i.imgur.com/I11J99B.png",Home Drama Channel (544p)
@@ -73,5 +65,3 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=4
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=4
 #EXTINF:-1 tvg-id="JPTV37" tvg-logo="https://i.imgur.com/I11J99B.png",Kids Station (544p)
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=4
-#EXTINF:-1 tvg-id="JPTV38" tvg-logo="https://i.imgur.com/I11J99B.png",LaLa TV (544p)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=4
